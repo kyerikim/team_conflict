@@ -5,6 +5,7 @@ output: html_notebook
 ```{r}
 #This is member 3's comment.
 MEMBER 4 COMMENT 
+member 4 change comment
 ```
 
 
